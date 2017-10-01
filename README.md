@@ -11,4 +11,4 @@
 ## API Reference
 
 ## Contributor
-[tonyyiu@GitHub]("https://github.com/tonyyiu")
+[tonyyiu @ GitHub]("https://github.com/tonyyiu")
