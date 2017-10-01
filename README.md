@@ -8,7 +8,7 @@
 5. Use ASCII Code to display “nctu”
 6. Whether the input number is odd or even.
 
-##API Reference
+## API Reference
 
 ## Contributor
 姚東汗
