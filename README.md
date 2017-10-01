@@ -11,4 +11,4 @@
 ## API Reference
 
 ## Contributor
-姚東汗
+[tonyyiu @ GitHub]("https://github.com/tonyyiu")
